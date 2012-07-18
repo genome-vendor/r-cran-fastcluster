@@ -1,0 +1,14 @@
+Source: r-cran-fastcluster
+Section: gnu-r
+Priority: optional
+Maintainer: Daniel Müllner <fastcluster@math.stanford.edu>
+Build-Depends: r-base-dev, r-base-core, debhelper (>> 4.1.0), cdbs
+Homepage: http://math.stanford.edu/~muellner/fastcluster.html
+
+Package: r-cran-fastcluster
+Architecture: all
+Maintainer: Daniel Müllner <fastcluster@math.stanford.edu>
+Description: Reshape lets you flexibly restructure and aggregate data using just two functions: melt and cast
+License: GPL-3
+Depends: r-base-core
+
